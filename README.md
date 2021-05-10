@@ -6,6 +6,3 @@
 # Updates
 - Updating the main branch
 
-## Purpose
-- This line is just another update
-
