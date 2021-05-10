@@ -6,4 +6,3 @@
 # Updates
 - Updating the main branch
 
-- A quick demo
